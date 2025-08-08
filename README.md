@@ -1,4 +1,3 @@
-Got it — you want a **complete Terraform note** that takes you from **absolute beginner to advanced DevOps-level proficiency**, tailored for someone who already has strong engineerin
 
 Here’s the **0 → Advanced Terraform Mastery Note** I’d recommend for you. It’s structured so you can use it as both a **study guide** and a **reference sheet**.
 
